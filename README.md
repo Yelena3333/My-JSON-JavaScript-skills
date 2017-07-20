@@ -1,2 +1,5 @@
-# My-JSON-JavaScript-skills
-This repository reflects some of my skills in working with JSON/JavaScript
+# JSON/JavaScript
+
+Demo1 demonstrates OOP in JS (the constructor creates the object and assigns properties and methods to it)
+
+Demo2 demonstrates JSON using
