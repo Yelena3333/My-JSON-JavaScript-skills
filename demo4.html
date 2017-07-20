@@ -31,7 +31,7 @@
     jsonString=JSON.stringify( cart );
     document.writeln("JSON string: "+jsonString+"</br></br>");
 
-    var cart2 = JSON.parse(jsonString); // parse JSON string which can be sent to browser in AJAX response
+    var cart2 = JSON.parse(jsonString); // parse JSON string which can be sent to JavaScript in AJAX response
     document.writeln( cart2.shopperEmail+"</br></br>" );
     document.writeln( cart2.contents[1].productName+"</br></br>" );
  
